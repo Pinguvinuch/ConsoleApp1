@@ -1,1 +1,2 @@
-﻿Console.WriteLine("R perdole BObr ");
+﻿int pop = 1 ;
+Console.WriteLine(pop);
