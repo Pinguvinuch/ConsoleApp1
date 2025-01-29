@@ -1,2 +1,2 @@
-﻿int pop = 1 ;
-Console.WriteLine(pop);
+﻿string termo_otrguga = "ULTRAAA";
+Console.WriteLine(termo_otrguga);
