@@ -1,2 +1,2 @@
-﻿string termo_otrguga = "MEGA ULTA PONOS";
+﻿string termo_otrguga = "чокопай ";
 Console.WriteLine(termo_otrguga);
