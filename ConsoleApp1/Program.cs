@@ -1,4 +1,4 @@
-﻿int pp = 18;
-Console.WriteLine(pp);
-int pg = 11;
-Console.WriteLine(pg);
+﻿Console.WriteLine("Toby fox is legend");
+Console.WriteLine("Toby fox is legend");
+Console.WriteLine("Toby fox is legend");
+Console.WriteLine("Toby fox is legend");
